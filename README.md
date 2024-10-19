@@ -131,8 +131,7 @@ fprintf(stderr, "shmdt failed\n"); exit(EXIT_FAILURE);
 } exit(EXIT_SUCCESS);
 }
 ```
-
-## OUTPUT
+## OUTPUT:
 ![alt text](image-1.png)
 ![alt text](image.png)
 
