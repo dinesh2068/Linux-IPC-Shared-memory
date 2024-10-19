@@ -133,8 +133,8 @@ fprintf(stderr, "shmdt failed\n"); exit(EXIT_FAILURE);
 ```
 
 ## OUTPUT
-![alt text](image.png)
 ![alt text](image-1.png)
+![alt text](image.png)
 
 # RESULT:
 The program is executed successfully.
